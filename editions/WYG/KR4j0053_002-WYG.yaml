@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0053/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 竹山詞跋昔人評詞盛稱李氏晏氏父子及耆卿子野子㳺子瞻美成堯章止矣蔣勝欲冺焉無聞今讀竹山詞一巻語語纎巧真世説靡也字字妍倩真六朝隃也豈其稍劣於諸公耶或讀招落梅魂一詞謂其磊落横放與辛㓜安同調其殆以一班而失全豹矣湖南毛晉識
+  hash: sha256:1a3faab93b99207742b41d558414967f6705f2324127b05497668f2ae5a5fa35
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0053_WYG_002-1a, image: WYG1488/WYG1488-0561a.png}
+metadata:
+  title: 竹山詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:44.397954'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4j0053/KR4j0053_002.txt
+hash: sha256:dd89b38559171aa39e69c0017057d00430517db34d5168954eb03bdcd8fe6435
